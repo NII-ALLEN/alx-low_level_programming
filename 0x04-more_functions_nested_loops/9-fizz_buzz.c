@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
  * main - print 1 to 100, except certain multiples
  * multiple of 3 only displays "Fizz" instad of number.
@@ -7,7 +8,9 @@
  * multiples of 3 and 5 display "FizzBuzz"
  * Return: 0 on Success
  */
+
 int main(void)
+
 {
 	int i;
 
